@@ -1,5 +1,5 @@
 import React from "react";
-import ChatInput from "./chat";
+import ChatInput from "./ChatInput";
 
 function ChatMessages({chatMessages}){
     let elementRef = React.useRef(null)
